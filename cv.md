@@ -1,10 +1,10 @@
 # **Viktoryia Tsialiatnikava**
 
 ## *Contact information:*
-telephone: +375292969255
-email: boriisovna@gmail.com
-LinkedIn: @boriisovvna
-Minsk, Belarus
+- telephone: +375292969255
+- email: boriisovna@gmail.com
+- LinkedIn: @boriisovvna
+- Minsk, Belarus
 
 ## *About me:*
 Highly-motivated employee with desire to take on new challenges. Strong worth ethic, adaptability and exceptional interpersonal skills. 
@@ -12,7 +12,7 @@ Adept at working effectively unsupervised and quickly mastering new skills. Prof
 player with excellent problem-solving abilities and a strong attention to detail. Seeking a web developer internship to further enhance 
 my skills and contribute to the success of your organization.
 
-## #### *Work experiences:*
+## *Work experiences:*
 - I have experience in developing and maintaining web applications using HTML, CSS, and JavaScript. It’s been a passion of mine to create 
 user-friendly and visually appealing websites. I love the challenge of troubleshooting and fixing any issues that may arise. My goal is 
 to provide the best possible user experience for every visitor to the site.
@@ -34,12 +34,12 @@ Bachelor of Social Sciences
 European Humanitarian University
 Vilnius, Lithuania
 
-## #### *Certifications:*
+## *Certifications:*
 - GitHub
 - Front-end Pre-school 
 - RSSchool (in process)
 
-## #### *Skills:*
+## *Skills:*
 - GitHub
 - CSS
 - HTML
@@ -47,7 +47,7 @@ Vilnius, Lithuania
 - Testing/debugging
 - Responsive design
 
-## #### *Languages:*
+## *Languages:*
 - Belarussian
 - Russian
 - English
