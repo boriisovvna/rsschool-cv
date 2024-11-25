@@ -12,14 +12,14 @@ Adept at working effectively unsupervised and quickly mastering new skills. Prof
 player with excellent problem-solving abilities and a strong attention to detail. Seeking a web developer internship to further enhance 
 my skills and contribute to the success of your organization.
 
-## *Work experiences:*
-I have experience in developing and maintaining web applications using HTML, CSS, and JavaScript. It’s been a passion of mine to create 
+## #### *Work experiences:*
+- I have experience in developing and maintaining web applications using HTML, CSS, and JavaScript. It’s been a passion of mine to create 
 user-friendly and visually appealing websites. I love the challenge of troubleshooting and fixing any issues that may arise. My goal is 
 to provide the best possible user experience for every visitor to the site.
-Designed user interface elements such as buttons, forms, menus, and navigation bars.
-Debugged existing codebase to identify issues and fix them quickly.
-Tested websites across multiple browsers to ensure compatibility and responsiveness.
-Implemented front-end features to improve user experience.
+- Designed user interface elements such as buttons, forms, menus, and navigation bars.
+- Debugged existing codebase to identify issues and fix them quickly.
+- Tested websites across multiple browsers to ensure compatibility and responsiveness.
+- Implemented front-end features to improve user experience.
 
 ## *Project:*
 RESPONSIVE WEB PAGE
@@ -34,22 +34,22 @@ Bachelor of Social Sciences
 European Humanitarian University
 Vilnius, Lithuania
 
-## *Certifications:*
-GitHub
-Front-end Pre-school 
-RSSchool (in process)
+## #### *Certifications:*
+- GitHub
+- Front-end Pre-school 
+- RSSchool (in process)
 
-## *Skills:*
-GitHub
-CSS
-HTML
-JavaScript
-Testing/debugging
-Responsive design
+## #### *Skills:*
+- GitHub
+- CSS
+- HTML
+- JavaScript
+- Testing/debugging
+- Responsive design
 
-## *Languages:*
-Belarussian
-Russian
-English
-Lithuanian
+## #### *Languages:*
+- Belarussian
+- Russian
+- English
+- Lithuanian
 
