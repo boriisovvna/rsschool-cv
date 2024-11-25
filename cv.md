@@ -30,9 +30,9 @@ the latest web technologies and make sure that the applications are user-friendl
 high-quality work that meets the needs of my clients.
 
 ## *Education:* 
-Bachelor of Social Sciences
-European Humanitarian University
-Vilnius, Lithuania
+Bachelor of Social Sciences      
+European Humanitarian University      
+Vilnius, Lithuania   
 
 ## *Certifications:*
 - GitHub
