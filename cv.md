@@ -22,12 +22,12 @@ to provide the best possible user experience for every visitor to the site.
 - Implemented front-end features to improve user experience.
 
 ## *Project:*
-RESPONSIVE WEB PAGE
-DEVELOPER
-Aug 2024
+RESPONSIVE WEB PAGE   
+DEVELOPER   
+Aug 2024    
 I have experience in developing and maintaining web applications using HTML, CSS, and JavaScript. It’s important to stay up-to-date with 
 the latest web technologies and make sure that the applications are user-friendly and accessible to everyone. I take pride in delivering 
-high-quality work that meets the needs of my clients.
+high-quality work that meets the needs of my clients.   
 
 ## *Education:* 
 Bachelor of Social Sciences      
